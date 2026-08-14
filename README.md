@@ -2,8 +2,6 @@
 
 Lyra is a Python-based voice assistant that listens for a wake word, understands your commands, and responds using natural-sounding speech. It can open websites, play music, read the latest news headlines, and answer general questions using an LLM (via Groq).
 
----
-
 ## ✨ Features
 
 - 🎤 **Wake-word activation** — say "Lyra" to activate listening
@@ -27,4 +25,5 @@ Lyra is a Python-based voice assistant that listens for a wake word, understands
 | `NewsAPI` | Fetches current top headlines |
 | `python-dotenv` | Loads API keys securely from a `.env` file |
 
-
+## 👩‍💻 Author
+DikshaGangolia
