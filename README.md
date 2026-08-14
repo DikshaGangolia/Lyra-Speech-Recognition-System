@@ -23,4 +23,5 @@ Lyra is a Python-based voice assistant that listens for a wake word, understands
 | `NewsAPI` | Fetches current top headlines |
 | `python-dotenv` | Loads API keys securely from a `.env` file |
 
-
+## 👩‍💻 Author
+DikshaGangolia
