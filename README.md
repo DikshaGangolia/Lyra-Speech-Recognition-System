@@ -1,5 +1,4 @@
 # 🎙️ Lyra – Voice-Activated Virtual Assistant
-
 Lyra is a Python-based voice assistant that listens for a wake word, understands your commands, and responds using natural-sounding speech. It can open websites, play music, read the latest news headlines, and answer general questions using an LLM (via Groq).
 
 ## ✨ Features
