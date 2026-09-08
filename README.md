@@ -146,7 +146,6 @@ NEWS_API_KEY=your_news_api_key
 ## 🧠 Concepts Demonstrated
 
 This project demonstrates several important concepts in Python and AI-based application development:
-
 - Speech recognition
 - Text-to-speech processing
 - Audio playback and processing
