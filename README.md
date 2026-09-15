@@ -176,6 +176,7 @@ Lyra-Speech-Recognition-System/
 ---
 
 ## 🔮 Future Improvements
+
 Potential future enhancements include:
 
 - 🌦️ Weather information support
