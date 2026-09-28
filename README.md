@@ -5,7 +5,6 @@
 ## 📌 Project Overview
 
 **Lyra** is a voice-activated virtual assistant designed to provide a hands-free and interactive user experience. It listens for the wake word **“Lyra”**, converts spoken commands into text, processes the user's request, and responds using natural-sounding speech.
-
 The assistant can open popular websites, play music from a local library, read current news headlines, and answer general questions using an AI-powered fallback system.
 
 ---
