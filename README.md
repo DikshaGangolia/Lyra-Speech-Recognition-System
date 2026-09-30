@@ -52,6 +52,7 @@ Lyra follows a simple workflow: it listens for activation, understands the user'
 ## 🛠️ Technology Stack
 
 | Technology | Purpose |
+
 |---|---|
 | **Python** | Core application development |
 | **SpeechRecognition** | Captures and converts voice input into text |
